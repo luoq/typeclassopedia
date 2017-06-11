@@ -1,4 +1,4 @@
 module Main where
-    import Monoidal2
+    import MonadTest
     main :: IO ()
     main = test
