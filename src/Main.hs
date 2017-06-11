@@ -1,4 +1,4 @@
 module Main where
-    import MonadTest
+    import ApplicativeComposition
     main :: IO ()
     main = test
