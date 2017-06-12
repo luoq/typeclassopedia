@@ -1,4 +1,4 @@
 module Main where
-    import TraversableTest
+    import MonadTransformerTest
     main :: IO ()
     main = test
