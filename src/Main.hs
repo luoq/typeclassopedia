@@ -1,4 +1,4 @@
 module Main where
-    import ApplicativeComposition
+    import TraversableTest
     main :: IO ()
     main = test
